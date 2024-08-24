@@ -24,4 +24,4 @@ By using Cacher, you can create a scalable and efficient caching system that mai
 
 Clone the repository: git clone `https://github.com/saradorri/cacher.git`
 Install dependencies: `go mod tidy`
-Run the example: `go run cmd/api/main.go`
+Run the example: `go run cmd/main.go`
