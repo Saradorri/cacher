@@ -1,8 +1,8 @@
 package app
 
 import (
-	"GorillaCacher/handler/controllers"
-	"GorillaCacher/internal/services"
+	"cacher/handler/controllers"
+	"cacher/internal/services"
 )
 
 func (a *application) InitController() controllers.CacheController {

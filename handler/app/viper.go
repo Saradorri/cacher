@@ -1,7 +1,7 @@
 package app
 
 import (
-	"GorillaCacher/internal/utils"
+	"cacher/internal/utils"
 	"errors"
 	"fmt"
 	"github.com/spf13/viper"

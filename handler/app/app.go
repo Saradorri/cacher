@@ -1,8 +1,8 @@
 package app
 
 import (
-	"GorillaCacher/handler/routers"
-	"GorillaCacher/internal/utils"
+	"cacher/handler/routers"
+	"cacher/internal/utils"
 	"context"
 	"flag"
 	"fmt"

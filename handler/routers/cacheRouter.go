@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"GorillaCacher/handler/controllers"
+	"cacher/handler/controllers"
 	"github.com/gin-gonic/gin"
 )
 

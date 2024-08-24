@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"GorillaCacher/pkg/cache/rds"
-	"GorillaCacher/pkg/hashing"
+	"cacher/pkg/cache/rds"
+	"cacher/pkg/hashing"
 	"fmt"
 )
 

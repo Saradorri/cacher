@@ -1,7 +1,7 @@
 package hashing
 
 import (
-	"GorillaCacher/pkg/cache/rds"
+	"cacher/pkg/cache/rds"
 	"fmt"
 	"hash/crc32"
 	"sort"

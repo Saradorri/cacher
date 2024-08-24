@@ -1,8 +1,8 @@
 package services
 
 import (
-	"GorillaCacher/pkg/cache"
-	"GorillaCacher/pkg/hashing"
+	"cacher/pkg/cache"
+	"cacher/pkg/hashing"
 	"time"
 )
 

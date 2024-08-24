@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"GorillaCacher/internal/services"
+	"cacher/internal/services"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"net/http"

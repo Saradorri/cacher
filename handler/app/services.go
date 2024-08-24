@@ -1,6 +1,6 @@
 package app
 
-import "GorillaCacher/pkg/hashing"
+import "cacher/pkg/hashing"
 
 func (a *application) InitCacheService() *hashing.HashRing {
 	hr := hashing.NewHashRing(a.config.System.VNodeCount)

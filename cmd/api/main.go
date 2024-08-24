@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GorillaCacher/handler/app"
+	"cacher/handler/app"
 	"context"
 )
 

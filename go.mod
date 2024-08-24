@@ -1,4 +1,4 @@
-module Cacher
+module cacher
 
 go 1.23.0
 
