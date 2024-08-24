@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "name": "Node-A",
+      "address": "127.0.0.1:6379"
+    },
+    {
+      "name": "Node-B",
+      "address": "127.0.0.1:6379"
+    }
+  ],
+  "system": {
+    "log_path": "logs",
+    "log_name": "gorilla-cacher",
+    "develop_mode": false,
+    "http_port": "8000",
+    "vnode_count": 5
+  }
+}
